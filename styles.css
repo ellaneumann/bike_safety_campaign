@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
 :root {
-  --bg-top: #e68dbe;
-  --bg-bottom: #e98ab2;
-  --text-offwhite: #f8f8f0;
-  --accent: #f3477b;
+  --bg-top: #eacad7;
+  --bg-bottom: #eacad7;
+  --text-offwhite: #f3477b;
+  --accent: #ea1655;
 }
 
 * { box-sizing: border-box; }
